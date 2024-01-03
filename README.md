@@ -31,4 +31,4 @@ If you encounter any issues or have questions about Blogex, feel free to contact
 
 Thank you for choosing Blogex as your preferred platform for sharing your stories and insights with the world. Happy blogging!
 
-For support  ![click here](https://telegram.me/TargetX_25)!
+For support  <a href="https://telegram.me/TargetX_25">Click Here</a>

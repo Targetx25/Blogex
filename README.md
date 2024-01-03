@@ -1,5 +1,4 @@
-# Blogex
-A Simple Blog Website Made With Node.js , Express and Bootstrap.
+
 # Blogex
 
 Welcome to Blogex - an interactive and user-friendly platform for expressing your thoughts, ideas, and experiences with the global audience. This repository includes the code for the Blogex website, developed using Node.js and Express for the backend, and Bootstrap for the frontend.

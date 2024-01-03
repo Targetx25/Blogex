@@ -24,7 +24,7 @@ We invite contributions from the open-source community to enhance and improve Bl
 
 <img width="1069" alt="Screenshot 2024-01-03 212845" src="https://github.com/Targetx25/Blogex/assets/143332430/e13e45cb-a10b-4059-9abd-d04eb41ce9f7">
 <img width="1067" alt="Screenshot 2024<img width="1068" alt="Screenshot 2024-01-03 212935" src="https://github.com/Targetx25/Blogex/assets/143332430/6cf0200f-3e4c-4aa0-b323-b1c08459d25e">
--01-03 212958" src="https://github.com/Targetx25/Blogex/assets/143332430/9f113358-2f7a-49ed-8d34-78a949d37893">
+<img width="1067" alt="Screenshot 2024-01-03 212958" src="https://github.com/Targetx25/Blogex/assets/143332430/36f44f35-315f-4dd6-9899-0c2d38b16e1b">
 <img width="1077" alt="Screenshot 2024-01-03 215711" src="https://github.com/Targetx25/Blogex/assets/143332430/f0850925-b88a-4a08-8b90-a42a62b9fa4d">
 
 ## Support
